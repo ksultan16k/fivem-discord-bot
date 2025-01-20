@@ -1,7 +1,7 @@
 {
   "BOT_TOKEN": "token",
-  "SERVER_URL": "ip:port_or_link",
-  "CHANNEL_ID": "channel_ID",
-  "DIRECT_CONNECT_LINK": "DIRECT_CONNECT_LINK",
+  "SERVER_URL": "https://cfx.re/join/z3a4b5",
+  "CHANNEL_ID": "1330906271057969163",
+  "DIRECT_CONNECT_LINK": "https://fivem.net/join/z3a4b5",
   "updateMinutes": 1
 }
